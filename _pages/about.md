@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my work as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, where I focused on climate and ocean-atmosphere dynamics. I am now preparing my applications for PhD programs starting in Fall 2026. My primary research interests lie in tropical climate dynamics, numerical modelling, and large-scale air–sea interaction, with a particular emphasis on multiscale processes in the Indo-Pacific region.
+Hi there!
+
+I recently completed my work as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, where I focused on xxx. I am now preparing my applications for PhD programs starting in Fall 2026. 
+
+My primary research interests lie in tropical climate dynamics and numerical modelling, with a particular emphasis on multiscale processes in the Indo-Pacific region.
 
 
 
