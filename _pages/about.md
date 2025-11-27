@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Xinyu.
+I recently completed my work as a research assistant at the College of Ocean and Earth Sciences, Xiamen University. Prior to that, I earned an M.S. degree in Meteorology from the University of Chinese Academy of Sciences in 2022 and a B.S. degree in Atmospheric Sciences from Lanzhou University in 2019.
 
-I recently completed my work as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, where I focused on xxx. I am now preparing my applications for PhD programs starting in Fall 2026. 
-
-My primary research interests lie in tropical climate dynamics and numerical modelling, with a particular emphasis on multiscale processes in the Indo-Pacific region.
+My research interests lie in tropical climate dynamics and numerical modelling.
 
 
 
