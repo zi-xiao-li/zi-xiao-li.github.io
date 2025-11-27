@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+Hi there! I'm Xinyu.
 
 I recently completed my work as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, where I focused on xxx. I am now preparing my applications for PhD programs starting in Fall 2026. 
 
