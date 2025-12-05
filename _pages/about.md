@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my work as a research assistant at the College of Ocean and Earth Sciences, Xiamen University. Prior to that, I earned an M.S. degree in Meteorology from the University of Chinese Academy of Sciences in 2022 and a B.S. degree in Atmospheric Sciences from Lanzhou University in 2019.
 
-My research interests lie in tropical climate dynamics and numerical modelling.
 
 
 
