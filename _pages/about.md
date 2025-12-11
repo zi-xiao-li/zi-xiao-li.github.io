@@ -11,7 +11,7 @@ I am a Ph.D. applicant in atmospheric and climate sciences with research interes
 
 I received my M.S. degree in Meteorology from the Institute of Atmospheric Physics, Chinese Academy of Sciences, where I investigated the upscale impacts of convectively coupled Kelvin waves on MJO propagation. Prior to that, I completed my B.S. in Atmospheric Sciences at Lanzhou University, with a senior thesis titled “Impacts of Two Types of ENSO Events on Extreme Precipitation in China.” Most recently, I worked as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University.
 
-## 🔥 Portfolio
+## 📝 Portfolio
 
 
 
