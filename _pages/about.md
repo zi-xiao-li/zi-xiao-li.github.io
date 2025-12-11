@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. applicant in atmospheric and climate sciences with research interests in **tropical intraseasonal variability**, **numerical modelling**, and **large-scale air–sea interaction**. My recent work focuses on understanding the multiscale dynamics of the Madden–Julian Oscillation (MJO) and convectively coupled equatorial waves, using both reanalysis diagnostics and idealized dynamical frameworks.
+I am a Ph.D. applicant in atmospheric and climate sciences with research interests in **tropical climate dynamics**, **numerical modelling**, and **extreme events**. My recent work focuses on understanding the multiscale dynamics of the Madden–Julian Oscillation (MJO) and convectively coupled equatorial waves, using both reanalysis diagnostics and idealized dynamical frameworks.
 
-I received my M.S. degree in Meteorology from the Institute of Atmospheric Physics, Chinese Academy of Sciences, where I investigated the upscale impacts of convectively coupled Kelvin waves on MJO propagation. Prior to that, I completed my B.S. in Atmospheric Sciences at Lanzhou University. Most recently, I worked as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, studying ocean warming and climate variability.
+I received my M.S. degree in Meteorology from the Institute of Atmospheric Physics, Chinese Academy of Sciences, where I investigated the upscale impacts of convectively coupled Kelvin waves on MJO propagation. Prior to that, I completed my B.S. in Atmospheric Sciences at Lanzhou University. Most recently, I worked as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University, where I analyzed equatorial wave characteristics and contributed to the writing of a textbook chapter.
 
-Methodologically, my work combines **atmospheric dynamics**, **spectral and numerical methods**, **large-scale diagnostics**, and **idealized modelling**. I have experience with MATLAB, Python, NCL, and high-performance computing environments.
+Methodologically, my work combines **atmospheric dynamics**, **spectral and numerical methods**, **large-scale diagnostics**, and **idealized modelling**. I have experience with MATLAB, Python, NCL, and high-performance computing environments such as Linux-based clusters.
 
-I am currently preparing applications for Fall 2026 Ph.D. programs in North America and am broadly interested in topics related to tropical dynamics, general circulation, and climate variability. I hope to contribute to a better theoretical understanding of multiscale processes that shape variability in the tropics and their impacts on the global climate system.
 
 
 
