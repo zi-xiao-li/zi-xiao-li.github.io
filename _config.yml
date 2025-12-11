@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xinyu Li"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xinyu Li"
 description              : &description "PhD applicant in atmospheric and climate sciences, focusing on tropical intraseasonal variability, numerical modelling, and air–sea interaction."   # Update this with a general description of your site, this is the default if not overridden by a page
