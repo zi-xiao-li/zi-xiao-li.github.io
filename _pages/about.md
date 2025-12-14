@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. applicant in atmospheric and climate sciences with research interests in tropical variability, numerical modelling, and extreme events. My recent work focuses on understanding the multiscale dynamics of the Madden–Julian Oscillation (MJO) and convectively coupled equatorial waves by combining reanalysis-based diagnostics with simulations using idealized theoretical models.
+I am a Ph.D. applicant in atmospheric and climate sciences with research interests in **tropical variability**, **numerical modelling**, and **extreme events**. My recent work focuses on understanding the multiscale dynamics of the Madden–Julian Oscillation (MJO) and convectively coupled equatorial waves by combining reanalysis-based diagnostics with simulations using idealized theoretical models.
 
 I received my M.S. degree in Meteorology from the [Institute of Atmospheric Physics, Chinese Academy of Sciences](https://www.iap.cas.cn/), where I investigated the upscale impacts of convectively coupled Kelvin waves on MJO propagation. Prior to that, I completed my B.S. in Atmospheric Science at [Lanzhou University](https://www.lzu.edu.cn/). Most recently, I worked as a Research Assistant at the College of Ocean and Earth Sciences, Xiamen University.
 
