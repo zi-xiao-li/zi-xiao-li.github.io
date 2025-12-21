@@ -9,7 +9,7 @@ excerpt: |
   </ul>
   <div style="text-align: center;">
     <img src='/images/500x300.png' style="max-width: 100%; height: auto;">
-    <p><a href="https://github.com/zi-xiao-li/MJO-tracking" target="_blank">https://github.com/zi-xiao-li/MJO-tracking</a></p>
+    <p><a href="https://github.com/zi-xiao-li/MJO-tracking" target="_blank">MJO-tracking on GitHub</a></p>
   </div>
 collection: portfolio
 ---
