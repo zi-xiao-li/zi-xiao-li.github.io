@@ -11,13 +11,12 @@ excerpt: |
   <!-- First image with caption -->
   <div style="text-align: center;">
     <img src='/images/vertical.png' style="max-width: 100%; height: auto;">
-    <figcaption>Figure 1: This is the description of the first image.</figcaption>
   </div>
   
   <!-- Second image with caption -->
   <div style="text-align: center;">
-    <img src='/images/another_image.png' style="max-width: 100%; height: auto;">
-    <figcaption>Figure 2: This is the description of the second image.</figcaption>
+    <img src='/images/vertical-2.png' style="max-width: 100%; height: auto;">
+    <figcaption>Fig.1. Equatorial vertical structures of CCKWs within the fast and slow MJO.</figcaption>
   </div>
 collection: portfolio
 ---
