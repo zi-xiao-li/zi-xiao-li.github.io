@@ -1,14 +1,7 @@
 ---
 title: "Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-excerpt: "Reanalysis-based diagnostics of multiscale interactions between convectively coupled Kelvin waves and the Madden–Julian Oscillation."
-thumbnail: /images/portfolio/mjo_cckw.png
 ---
 
-**Description**  
-This project investigates how different vertical heating structures of convectively coupled Kelvin waves (CCKWs) influence the propagation speed of the Madden–Julian Oscillation (MJO). Using reanalysis-based diagnostics and composite analyses, I examined the structural differences between fast- and slow-propagating MJO events and their associated Kelvin wave activity.
-
-**Methods**
-- OLR-based filtering and composite analysis  
-- Event-based MJO tracking  
-- Comparison with theoretical shallow-water solutions
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
