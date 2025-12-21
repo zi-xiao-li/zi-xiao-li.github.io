@@ -1,5 +1,6 @@
 ---
 title: "Master's Thesis"
+title: "Portfolio item number 1"
 excerpt: |
   <h3 style="font-style: italic;">Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <ul style="text-align: left;">
@@ -7,7 +8,9 @@ excerpt: |
     <li>An intraseasonal planetary equatorial synoptic-scale dynamics (IPESD) model is used to examine the feedback of CMD- and NCMD-type heating on the MJO-like low-level westerly response through multiscale interaction processes.</li>
     <li>A positive feedback mechanism for MJO acceleration is implied within the IPESD theoretical framework.</li>
   </ul>
-  <img src='/images/500x300.png' style="max-width: 100%; height: auto; margin-top: 10px;">
+  <div style="text-align: center;">
+    <img src='/images/500x300.png' style="max-width: 100%; height: auto;">
+  </div>
 collection: portfolio
 ---
 
