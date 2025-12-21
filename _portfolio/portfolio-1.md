@@ -7,8 +7,17 @@ excerpt: |
     <li>An intraseasonal planetary equatorial synoptic-scale dynamics (IPESD) model is used to examine the feedback of CMD- and SMD-type heating on the MJO-like low-level westerly response through multiscale interaction processes.</li>
     <li>A negative feedback mechanism for MJO acceleration is implied within the IPESD theoretical framework.</li>
   </ul>
+
+  <!-- First image with caption -->
   <div style="text-align: center;">
     <img src='/images/vertical.png' style="max-width: 100%; height: auto;">
+    <figcaption>Figure 1: This is the description of the first image.</figcaption>
+  </div>
+  
+  <!-- Second image with caption -->
+  <div style="text-align: center;">
+    <img src='/images/another_image.png' style="max-width: 100%; height: auto;">
+    <figcaption>Figure 2: This is the description of the second image.</figcaption>
   </div>
 collection: portfolio
 ---
