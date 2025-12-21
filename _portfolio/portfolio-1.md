@@ -1,6 +1,5 @@
 ---
 title: "Master's Thesis"
-title: "Portfolio item number 1"
 excerpt: |
   <h3 style="font-style: italic;">Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <ul style="text-align: left;">
