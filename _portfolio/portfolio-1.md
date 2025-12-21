@@ -16,7 +16,7 @@ excerpt: |
   
   <!-- Second image with caption -->
   <div style="text-align: center;">
-    <img src='/images/vertical-2.png' style="max-width: 80%; height: auto;">
+    <img src='/images/model.png' style="max-width: 90%; height: auto;">
     <figcaption>Fig.2. Numerical results.</figcaption>
   </div>
 collection: portfolio
