@@ -1,5 +1,5 @@
 ---
-title: "Master's Thesis and Selected Work during RA"
+title: "Master's Thesis"
 excerpt: |
   <h3 style="font-style: italic;">Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <ul style="text-align: left;">
@@ -18,12 +18,6 @@ excerpt: |
   <div style="text-align: center;">
     <img src='/images/model-1.png' style="max-width: 100%; height: auto;">
     <figcaption>Fig.2. Numerical results: SDM.</figcaption>
-  </div>
-
-    <!-- Second image with caption -->
-  <div style="text-align: center;">
-    <img src='/images/model-2.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.3. Numerical results: CDM.</figcaption>
   </div>
 collection: portfolio
 ---
