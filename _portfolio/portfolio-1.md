@@ -8,7 +8,7 @@ excerpt: |
     <li>A negative feedback mechanism for MJO acceleration is implied within the IPESD theoretical framework.</li>
   </ul>
   <div style="text-align: center;">
-    <img src='/images/500x300.png' style="max-width: 100%; height: auto;">
+    <img src='/images/vertical.png' style="max-width: 100%; height: auto;">
   </div>
 collection: portfolio
 ---
