@@ -10,6 +10,7 @@ excerpt: |
   <div style="text-align: center;">
     <img src='/images/500x300.png' style="max-width: 100%; height: auto;">
     <p><a href="https://github.com/zi-xiao-li/MJO-tracking" target="_blank">MJO-tracking on GitHub</a></p>
+    <p style="font-size: 0.9em; color: grey;">Method adapted from: Jian Ling et al., "Global versus Local MJO Forecast Skill of the ECMWF Model during DYNAMO," <i>Journal of Climate</i>, 2013.</p>
   </div>
 collection: portfolio
 ---
