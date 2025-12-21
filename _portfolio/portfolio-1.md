@@ -23,7 +23,7 @@ excerpt: |
     <!-- Second image with caption -->
   <div style="text-align: center;">
     <img src='/images/model-2.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.2. Numerical results: CDM.</figcaption>
+    <figcaption>Fig.3. Numerical results: CDM.</figcaption>
   </div>
 collection: portfolio
 ---
