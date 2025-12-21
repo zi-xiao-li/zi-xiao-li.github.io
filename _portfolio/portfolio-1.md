@@ -1,6 +1,3 @@
----
-collection: portfolio
----
 
 ## Master's Thesis
 
