@@ -1,5 +1,16 @@
-<img src='/images/500x300.png'>
+---
+layout: archive
+title: "Portfolio"
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-- The convective-mode-dominant (CMD) and non-convective-mode-dominant (NCMD) vertical structures of convectively coupled Kelvin waves (CCKWs) are identified within slow and fast MJO events, respectively ←
-- An intraseasonal planetary equatorial synoptic-scale dynamics (IPESD) model is used to examine the feedback of CMD- and NCMD-type heating on the MJO-like low-level westerly response through multiscale interaction processes ←
-- A positive feedback mechanism for MJO acceleration is implied within the IPESD theoretical framework ←
+{% include base_path %}
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
