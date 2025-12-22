@@ -23,7 +23,7 @@ excerpt: |
   
   <!-- Second image with caption -->
   <div style="text-align: center; margin-bottom: 30px;">
-    <img src='/images/model-1.png' style="max-width: 80%; height: auto;">
+    <img src='/images/model-1.png' style="max-width: 90%; height: auto;">
     <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
   
