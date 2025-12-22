@@ -24,7 +24,7 @@ excerpt: |
   <!-- Second image with caption -->
   <div style="text-align: center;">
     <img src='/images/model-1.png' style="max-width: 80%; height: auto;">
-    <figcaption>Fig.3. Numerical results: SDM.</figcaption>
+    <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
 collection: portfolio
 ---
