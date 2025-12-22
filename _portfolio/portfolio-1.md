@@ -10,35 +10,21 @@ excerpt: |
 
 
   <div style="text-align: center;">
-    <img src='/images/1.png' style="max-width: 100%; height: auto;">
+    <img src='/images/2.png' style="max-width: 90%; height: auto;">
     <figcaption>Fig.1. </figcaption>
   </div>
 
-  <div style="text-align: center;">
-    <img src='/images/2.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.2. </figcaption>
-  </div>
-
-  <div style="text-align: center;">
-    <img src='/images/3.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.3. </figcaption>
-  </div>
 
   <div style="text-align: center;">
     <img src='/images/vertical.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.4. Equatorial vertical structures of CCKWs within the fast and slow MJO.</figcaption>
+    <figcaption>Fig.2. Equatorial vertical structures of CCKWs within the fast and slow MJO.</figcaption>
   </div>
   
-  <!-- First image with caption -->
-  <div style="text-align: center;">
-    <img src='/images/vertical-1.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.5. Equatorial vertical structures of CCKWs within the fast and slow MJO.</figcaption>
-  </div>
   
   <!-- Second image with caption -->
   <div style="text-align: center;">
     <img src='/images/model-1.png' style="max-width: 100%; height: auto;">
-    <figcaption>Fig.6. Numerical results: SDM.</figcaption>
+    <figcaption>Fig.3. Numerical results: SDM.</figcaption>
   </div>
 collection: portfolio
 ---
