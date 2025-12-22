@@ -27,6 +27,10 @@ excerpt: |
     <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
 
+<p style="margin-top: 10px; text-align: center;">
+  Link to Master’s thesis:
+</p>
+
 collection: portfolio
 ---
 Link to Master’s thesis: 
