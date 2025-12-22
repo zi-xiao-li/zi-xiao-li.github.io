@@ -26,5 +26,13 @@ excerpt: |
     <img src='/images/model-1.png' style="max-width: 80%; height: auto;">
     <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
+
+<p style="margin-top: 10px; text-align: center;">
+  <strong>Link to Master’s Thesis:</strong>
+  <a href="THESIS_URL" target="_blank">
+    Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation
+  </a>
+</p>
+
 collection: portfolio
 ---
