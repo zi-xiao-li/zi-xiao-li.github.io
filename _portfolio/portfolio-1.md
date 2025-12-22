@@ -10,7 +10,7 @@ excerpt: |
 
 
   <div style="text-align: center;">
-    <img src='/images/1.png' style="max-width: 90%; height: auto;">
+    <img src='/images/1.png' style="max-width: 80%; height: auto;">
     <figcaption>Fig.1. Wavenumber-frequency power spectrum of the symmetric component of OLR.</figcaption>
   </div>
 
