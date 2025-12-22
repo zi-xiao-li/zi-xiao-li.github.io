@@ -26,14 +26,12 @@ excerpt: |
     <img src='/images/model-1.png' style="max-width: 80%; height: auto;">
     <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
-
-    <p style="margin-top: 10px; text-align: center;">
+  
+collection: portfolio
+---
+  <p style="margin-top: 10px; text-align: center;">
     <strong>Link to Master’s thesis:</strong>
     <a href="THESIS_URL" target="_blank">
       PDF
     </a>
   </p>
-  
-collection: portfolio
----
-Link to Master’s thesis:
