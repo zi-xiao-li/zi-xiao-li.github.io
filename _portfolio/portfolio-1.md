@@ -28,8 +28,11 @@ excerpt: |
   </div>
 
 <p style="margin-top: 10px; text-align: center;">
-  Link to Master’s thesis:
-</p>
+    <strong>Link to Master’s thesis:</strong>
+    <a href="THESIS_URL" target="_blank">
+      PDF
+    </a>
+  </p>
 
 collection: portfolio
 ---
