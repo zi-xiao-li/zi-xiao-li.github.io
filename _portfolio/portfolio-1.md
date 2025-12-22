@@ -1,5 +1,5 @@
 ---
-title: "Master’s Thesis and Related Research Assistant Work"
+title: "Master’s Thesis"
 excerpt: |
   <h3 style="font-style: italic;">Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <ul style="text-align: left;">
