@@ -9,20 +9,20 @@ excerpt: |
   </ul>
 
 
-  <div style="text-align: center; margin-bottom: 30px;">
+  <div style="text-align: center; margin-bottom: 40px;">
     <img src='/images/1.png' style="max-width: 80%; height: auto;">
     <figcaption>Fig.1. Wavenumber-frequency power spectrum of the symmetric component of OLR.</figcaption>
   </div>
 
   
-  <div style="text-align: center; margin-bottom: 30px;">
+  <div style="text-align: center; margin-bottom: 40px;">
     <img src='/images/vertical.png' style="max-width: 90%; height: auto;">
     <figcaption>Fig.2. Equatorial vertical structures of CCKWs within the fast and slow MJO.</figcaption>
   </div>
   
   
   <!-- Second image with caption -->
-  <div style="text-align: center; margin-bottom: 30px;">
+  <div style="text-align: center; margin-bottom: 40px;">
     <img src='/images/model-1.png' style="max-width: 90%; height: auto;">
     <figcaption>Fig.3. Numerical results: SMD.</figcaption>
   </div>
