@@ -11,20 +11,20 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Homepage"
 title_separator          : "-"
-# name                     : &name "Xinyu Li"
+name                     : &name "Sydney"
 # description              : &description "PhD applicant in atmospheric and climate sciences, focusing on tropical intraseasonal variability, numerical modelling, and air–sea interaction."   # Update this with a general description of your site, this is the default if not overridden by a page
-# url                      : "https://zi-xiao-li.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-#                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-# baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "zi-xiao-li/zi-xiao-li.github.io"
+url                      : "https://zi-xiao-li.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "zi-xiao-li/zi-xiao-li.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
-  # name             : "Xinyu Li"
+  avatar           : "profile.png"
+  name             : "Sydney"
   # pronouns         :  
   # bio              : "PhD applicant in atmospheric and climate sciences"
   # location         : "Yunnan, China"
