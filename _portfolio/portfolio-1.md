@@ -25,7 +25,7 @@ excerpt: |
   <!-- Second image with caption -->
   <div style="text-align: center; margin-bottom: 40px;">
     <img src='/images/model-1.png' style="max-width: 70%; height: auto;">
-    <figcaption>Fig.3. Numerical results: SMD.</figcaption>
+    <figcaption>Fig.3. Numerical results.</figcaption>
   </div>
 
   <p style="margin-top: 10px; text-align: center;">
