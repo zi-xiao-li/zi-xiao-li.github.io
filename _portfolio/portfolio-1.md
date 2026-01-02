@@ -6,7 +6,7 @@ excerpt: |
   <ul style="text-align: left;">
     <li>Within both fast and slow Madden-Julian Oscillation (MJO) events, the vertical structures of convectively coupled Kelvin waves (CCKWs) resemble those of most organized convective systems in the tropical regions; however, the relative development of deep convection and stratiform clouds differs substantially.</li>
     <li>CCKWs within fast MJO events are associated with more vigorous deep convection, characterized by stronger mid-tropospheric wind convergence, vertically coherent ascent, and a more vertically extensive tropospheric heating. In contrast, CCKWs within slow MJO events exhibit enhanced stratiform development, characterized by a clearer second internal baroclinic mode signature in the wind fields and a stronger vertical gradient of mid-tropospheric temperature anomalies to the west of the deepest convection.</li>
-    <li>Using the intraseasonal planetary equatorial synoptic dynamics (IPESD) model, we examined how different CCKW vertical heating structures affect MJO propagation. In slow MJO events, enhanced stratiform heating induces a stronger MJO-scale wind response, which strengthens low-level convergence to the east of the major convection and thereby favors eastward MJO propagation.</li>
+    <li>Using the intraseasonal planetary equatorial synoptic dynamics (IPESD) model, we examined how different CCKW vertical heating structures affect MJO propagation. Within slow MJO events, enhanced stratiform heating induces a stronger MJO-scale wind response, which strengthens low-level convergence to the east of the major convection and thereby favors eastward MJO propagation.</li>
   </ul>
 
 
