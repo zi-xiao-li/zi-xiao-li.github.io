@@ -2,7 +2,7 @@
 title: "Master’s Thesis"
 excerpt: |
   <h3>Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
-  <p>Key Points:</p>
+  <h3>Key Points:</h3>
   <ul style="text-align: left;">
     <li>The convective-mode-dominant (CMD) and stratiform-mode-dominant (SMD) vertical structures of convectively coupled Kelvin waves (CCKWs) are identified within fast and slow MJO events, respectively.</li>
     <li>An intraseasonal planetary equatorial synoptic-scale dynamics (IPESD) model is used to examine the feedback of CMD- and SMD-type heating on the MJO-like wind response.</li>
