@@ -1,5 +1,5 @@
 ---
-title: "Master’s Thesis"
+title: "Master’s Thesis and Related Research Assistant Work"
 excerpt: |
   <h3>Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <h3>Key Points:</h3>
@@ -28,13 +28,6 @@ excerpt: |
     <figcaption>Fig.3. Numerical results.</figcaption>
   </div>
 
-  <p style="margin-top: 10px; text-align: center;">
-    <strong>Link to Master’s thesis:</strong>
-    <a href="/files/master's thesis.pdf" target="_blank">
-      PDF
-    </a>
-  </p>
-  
 collection: portfolio
 ---
   <p style="margin-top: 10px; text-align: center;">
