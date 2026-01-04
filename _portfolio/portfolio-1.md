@@ -1,7 +1,7 @@
 ---
 title: "Master’s Thesis and Related Research Assistant Work"
 excerpt: |
-  <h3>Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
+  <h3 style="font-style: italic;">Upscale Impacts of Convectively Coupled Kelvin Waves on MJO Propagation</h3>
   <h3>Key Points:</h3>
   <ul style="text-align: left;">
     <li>Within both fast and slow Madden-Julian Oscillation (MJO) events, the vertical structures of convectively coupled Kelvin waves (CCKWs) resemble those of most organized convective systems in the tropical regions; however, the relative development of deep convection and stratiform clouds differs substantially.</li>
