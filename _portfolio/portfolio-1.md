@@ -30,10 +30,4 @@ excerpt: |
 
 collection: portfolio
 ---
-  <p style="margin-top: 10px; text-align: center;">
-    <strong>Link to Master’s thesis:</strong>
-    <a href="/files/master's thesis.pdf" target="_blank">
-      PDF
-    </a>
-  </p>
 
